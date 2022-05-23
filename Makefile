@@ -6,3 +6,6 @@ brain-games:
 
 publish:
 	npm piblish --dry-run
+
+lint:
+	npx eslint .
